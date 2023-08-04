@@ -1,0 +1,82 @@
+body{
+    background-color: brown;
+}
+table, th, td{
+    border: 1px solid black; 
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+ background-color: aqua;
+}
+th, td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+<p>kung gusto mo alisin yung malaking box sa labas ng mga box ialis mo yung table
+<p> kung gusto mo naman manipis yung box ilagay mo yung collapse
+<p> kung gusto mo bilog yung mga border lagay mo radius 
+ibat ibang style ng border
+border-style: dotted;     
+dashed     
+solid     
+double     
+groove     
+ridge     
+inset     
+outset     
+none     
+hidden 
+<table style="width:100%">
+<th style="width:70%">Firstname</th>
+<tr style="height:200px">
+para maging vertical yung headers sa table nyo gawin nyong th yung umpisa
+ex:
+<table style="width:100%">
+<tr>
+  <th>Firstname</th> eto oh th
+  <td>Jill</td>
+  <td>Eve</td>
+</tr>
+<tr>
+  <th>Lastname</th> eto pa th
+  <td>Smith</td>
+  <td>Jackson</td>
+</tr>
+<tr>
+  <th>Age</th>  eto rin th
+  <td>50</td>
+  <td>94</td>
+</tr>
+</table>    
+1header sa dalawang colums colspan for colum roswpan for row
+ex:
+<table style="width:100%">
+  <tr>
+    <th colspan="2">Name</th> rowspan naman pag guto mo pa vertical yung dalawang row
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+para mag lagay ng caption lagay mo lang caption tag sa loob ng table 
+ex: <caption>Monthly savings</caption>
+table padding examples
+padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+  border spacing 
+  table {
+    border-spacing: 10px;
+  }

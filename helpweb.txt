@@ -1,0 +1,21 @@
+https://fonts.google.com/specimen/Montserrat?query=montser#styles  ------FONT STYLE
+https://www.creative-tim.com/product/soft-ui-dashboard ---------dashboard
+https://coolors.co/palettes/trending ----------- palette colors
+https://larsenwork.com/easing-gradients/ --------------- gradient colors
+https://csshero.org/mesher/ ------------------background color
+https://colorhunt.co/palettes --------color template
+https://fontawesome.com/v4/cheatsheet/ -----------icon
+https://html5up.net/ ---------- website ready
+https://neumorphism.io/#e0e0e0 ------------ button
+https://www.youtube.com/watch?v=ieTHC78giGQ ------css
+https://www.youtube.com/watch?v=PkZNo7MFNFg ---------javascript
+https://www.youtube.com/watch?v=xV7S8BhIeBo --------portfolio
+https://www.youtube.com/watch?v=G3e-cpL7ofc ---------- amazing tutorial for html and css
+html entity middle dot, check search on google 
+https://icons8.com/icons/ios-glyphs -----------icons u can use
+block element = sinasakop ng kanyang margin ang buong linya
+inline-block element = sinasakop lang ng margin nya kung hanggang saan lang sya
+inline element = nasaloob ng isa pang element 
+note:kung gusto mo gawing inline-block element ang isang block element use display: inline-block;
+     ganon din pag gusto mo naman gawing block ang inline-block element use display: block;
+
